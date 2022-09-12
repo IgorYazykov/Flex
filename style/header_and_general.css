@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+}
+
+.fix_size_for_header{
+    width: 1338px;
+    margin: 0 auto;
+    height: 95px;
+}
+
+.fix_size_conteiner{
+    width: 1290px;
+    margin: 0 auto;
+}
+
+.header_background{
+    background: #FFFFFF;
+}
+
+.background_1{
+    background: #FF6336;
+}
+
+.background_2{
+    background: #FF9C7D;
+}
+
+.background_3{
+    background: #FFF8E4;
+}
+
+.flex{
+    display: flex;
+}
+
+.helping_center{
+    align-self: center;
+    padding-right: 51px;
+}
+
+.flex_nav_header{
+    width: 549px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex>div.flex{
+    width: 549px;
+}
+
+.no_a{
+    text-decoration: none;
+    justify-content: flex-end;
+}
+
+.nav_1{
+    font-family: "Graphik-Regular";
+    font-size: 15px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.flex_button_logo{
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.button_log{
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 0px;
+    margin-right: 10px;
+    width: 120px;
+    height: 45px;
+}
+
+.button_log_text{
+    font-family: "Graphik-Medium";
+    font-size: 16px;
+    line-height: 45px;
+    text-align: center;
+    color: #000000;
+    cursor: pointer;
+}
+
+.button_free{
+    width: 120px;
+    height: 45px;
+    border-radius: 0px;
+}
+
+.button_free_text{
+    font-family: "Graphik-Medium";
+    font-size: 16px;
+    line-height: 45px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.hr_header{
+    background: #CCCCCC;
+    border: 0;
+    margin: 0;
+    height: 1px;
+}
+
+.text-align{
+    text-align: center;
+}
+
+.flex_space_around{
+    justify-content:space-around;
+}
+
+.helping_size_for_block_1{
+    width: 303px;
+}
+
+.helping_size_for_block_2{
+    width: 330px;
+}
+
+.helping_size_for_block_3{
+    width: 281px;
+}

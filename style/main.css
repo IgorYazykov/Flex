@@ -1,0 +1,81 @@
+.section_size_1{
+    height: 861px;
+    align-items: center;
+}
+
+.Accelerate{
+    font-family: "GraphikLCG-Semibold";
+    font-size: 65px;
+    line-height: 70px;
+    color: #000000;
+}
+
+.size_for_Accelerate{
+    width: 552px;
+    height: 210px;
+}
+
+.text_after_Accelerate{
+    font-family: "Graphik-Regular";
+    font-size: 25px;
+    line-height: 35px;
+    color: #000000;
+}
+
+.size_for_text_after{
+    width: 471px;
+    height: 140px;
+    margin: 51px 0 ;
+}
+
+.button_size{
+    width: 160px;
+    height: 60px;
+}
+
+.button_size_1{
+    margin-left: 10px;
+    width: 160px;
+    height: 60px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 0px;
+}
+
+.small_text{
+    margin-top: 25px;
+    font-family: "Graphik-Regular";
+    font-size: 15px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.line_height_for_button{
+    line-height: 60px;
+}
+
+.image_shema{
+    position: relative;
+        right: 60px;
+}
+
+.height_for_logo_img{
+    height: 455px;
+}
+
+.size_for_text_logo{
+    width: 720px;
+    margin: 0 auto;
+    padding: 108px 0 70px;
+}
+
+.text_befor_logo_images{
+    font-family: "GraphikLCG-Semibold";
+    font-size: 50px;
+    line-height: 60px;
+    color: #000000;
+}
+
+.flex_logo_images{
+    justify-content: space-between;
+    align-items: center;
+}
