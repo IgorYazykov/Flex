@@ -42,11 +42,14 @@
 }
 
 .small_text{
-    margin-top: 25px;
     font-family: "Graphik-Regular";
     font-size: 15px;
     line-height: 25px;
     color: #000000;
+}
+
+.small_text_padding{
+    padding-top: 25px;
 }
 
 .line_height_for_button{
@@ -78,4 +81,272 @@
 .flex_logo_images{
     justify-content: space-between;
     align-items: center;
+}
+
+/*8 блоков*/
+
+.padding_top{
+    padding-top: 90px;
+}
+
+.flex_box{
+    align-items: center;
+}
+
+.text_from_block{
+    font-family: "Graphik-Regular";
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.size_for_text_from_block{
+    width: 491px; 
+}
+
+.padding_text_from_block{
+    padding: 10px 0 30px;
+}
+
+.padding_top_1{
+    padding-top: 250px;
+}
+
+.start {
+    font-family: "Graphik-Medium";
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.padding_text_from_block_1{
+    padding: 30px 0 36px;
+}
+
+.text_size{
+    margin-left: 138px;
+}
+
+.helpping_size{
+    width: 658px;
+}
+
+.helpping_size_for_text{
+    width: 520px;
+}
+
+.padding_end{
+    padding-bottom: 150px;
+}
+
+/* цветные блоки (6 блоков) */
+
+.helping_paddin_for_first_block{
+    padding: 120px 0 79px;
+}
+
+.img_padding_1{
+    padding: 0 72px 0 71px ;
+}
+
+.img_padding_2{
+    padding: 0 85px;
+}
+
+.img_padding_3{
+    padding: 0 61px;
+}
+
+.small_block_text_1{
+    font-family: "GraphikLCG-Semibold";
+    font-size: 25px;
+    line-height: 35px;
+    text-align: center;
+    color: #000000;
+}
+
+.small_block_text_2{
+    font-family: "Graphik-Regular";
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #000000;
+}
+
+.helping_paddin{
+    padding: 75px 0 147px;
+}
+
+.small_block_1{
+    padding: 26px 0 20px;
+}
+
+.small_block_2{
+    padding: 21px 0 25px;
+}
+
+.small_block_3{
+    padding: 23px 0;
+}
+
+/* 3 карточки */
+
+.bottom_padding{
+    padding-bottom: 187px;
+}
+
+.padding_logo_2{
+    padding: 154px 0 75px;
+}
+
+.small_logo_text{
+    font-family: "GraphikLCG-Semibold";
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.card_1 .card_2{
+    padding-right: 31px;
+}
+
+.card_1>.small_logo_text{
+    padding: 49px 0 34px;
+}
+
+.card_1>.text_from_block{
+    padding-bottom: 25px;
+    width: 415px;
+}
+
+.card_2>img{
+    padding-top: 17px;
+}
+
+.card_2>.small_logo_text{
+    padding: 67px 0 33px;
+}
+
+.card_2>.text_from_block{
+    padding-bottom: 26px;
+    width: 415px;
+}
+
+.card_3>img{
+    padding-top: 9px;
+}
+
+.card_3>.small_logo_text{
+    padding: 58px 0 34px;
+}
+
+.card_3>.text_from_block{
+    padding-bottom: 25px;
+    width: 407px;
+}
+
+/* синий блок */
+
+.text_for_blue_block{
+    font-family: "Graphik-Regular";
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+    padding-top: 63px;
+}
+
+.small_text_padding_blue{
+    padding-top: 23px;
+}
+
+.man{
+    padding: 53px 0 104px;
+}
+
+/* коричневый блок */
+
+.text_blue_size{
+    width: 461px;
+}
+
+.helping_padding{
+    padding: 88px 67px 0 0;
+}
+
+.text_blue{
+    font-family: "GraphikLCG-Semibold";
+    font-size: 35px;
+    line-height: 50px;
+    color: #000000;
+    padding: 116px 0 115px;
+}
+
+.hr_blue{
+    height: 168px;
+    width: 1px;
+    background-color: #000000;
+    margin: 0;
+    border: 0;
+    margin: 79px 0 84px 124px;
+}
+
+.blue_img{
+    padding-top: 79px;
+}
+
+/* блок с птичкой */
+
+.helping_padding_for_bird{
+    padding-top: 165px;
+}
+
+.large_logo_befor_bird{
+    font-family: "GraphikLCG-Semibold";
+    font-size: 65px;
+    line-height: 75px;
+    color: #000000;
+    width: 791px;
+}
+
+.small_text_befor_bird{
+    font-family: "Graphik-Regular";
+    font-size: 25px;
+    line-height: 30px;
+    color: #000000;
+    width: 539px;
+}
+
+.helping_margin{
+    margin: 32px auto 162px;
+}
+
+.button_bird{
+    height: 60px;
+    width: 193px;
+    border-radius: 0px;
+}
+
+.padding_for_last_block{
+    padding: 119px 0 161px;
+}
+
+.helping_padding_free{
+    padding: 29px 0 54px;
+}
+
+.free_last_button{
+    font-family: "Graphik-Medium";
+    font-size: 17px;
+    line-height: 60px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.size_for_free{
+    width: 160px;
+    height: 60px;
+    background: #000000;
+    border-radius: 0px;
 }

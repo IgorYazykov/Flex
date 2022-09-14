@@ -29,6 +29,22 @@
     background: #FFF8E4;
 }
 
+.background_4{
+    background: #C9E8F2;
+}
+
+.background_5{
+    background: #DABC98;
+}
+
+.background_6{
+    background: #FF9C7D;
+}
+
+.background_7{
+    background: #EEEEEE;
+}
+
 .flex{
     display: flex;
 }
@@ -108,6 +124,10 @@
     text-align: center;
 }
 
+.block_center{
+    margin: 0 auto;
+}
+
 .flex_space_around{
     justify-content:space-around;
 }
@@ -122,4 +142,16 @@
 
 .helping_size_for_block_3{
     width: 281px;
+}
+
+.helping_size_for_block_3_1{
+    width: 300px;
+}
+
+.color_black_for_a{
+    color: #000000;
+}
+
+.flex_space_between{
+    justify-content: space-between;
 }

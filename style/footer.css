@@ -1,0 +1,65 @@
+.size_for_part{
+    width: 300px;
+    padding-bottom: 95px;   
+}
+
+.size_for_part>.small_logo_text{
+    padding: 92px 0 28px;
+}
+
+.size_for_part>.helping{
+    padding: 31px 0 11px;
+}
+
+.size_for_part>.text_from_block{
+    padding-bottom: 15px;
+}
+
+.very_small_text_1{
+    font-family: "GraphikLCG-Semibold";
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+    padding: 97px 0 21px;
+}
+
+.very_small_text_2{
+    font-family: "Graphik-Regular";
+    font-size: 15px;
+    line-height: 15px;
+    color: #000000;
+}   
+
+.small_padding{
+    padding-bottom: 15px;
+}
+
+.second_hr{
+    border: 0;
+    margin: 0;
+    height: 1px;
+    background-color: #000000;
+}
+
+.helping_padding_footer{
+    padding: 52px 0 43px;
+}
+
+.padding_right{
+    padding-right: 14px;
+}
+
+.size_for_small_logo{
+    width: 280px;
+}
+
+.very_small_right{
+    font-family: "Graphik-Regular";
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+
+.size_for_right{
+    width: 120px;
+}
