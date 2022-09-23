@@ -2,14 +2,18 @@
     box-sizing: border-box;
 }
 
+a{
+    display: inline-block;
+}
+
 .fix_size_for_header{
-    width: 1338px;
+    max-width: 1338px;
     margin: 0 auto;
     height: 95px;
 }
 
 .fix_size_conteiner{
-    width: 1290px;
+    max-width: 1290px;
     margin: 0 auto;
 }
 
@@ -60,7 +64,7 @@
     align-items: center;
 }
 
-.flex>div.flex{
+.size_nav{
     width: 549px;
 }
 

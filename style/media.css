@@ -1,0 +1,566 @@
+@media ( max-width: 1338px) {
+    .fix_size_for_header{
+        flex-direction: column;
+        width: auto;
+        height: auto;
+        padding: 30px 0;
+    }
+    
+    .helping_center{
+        padding-right: 0;
+    }
+
+    .flex_nav_header{
+        margin: 0 auto;
+        padding: 30px 0;
+    }
+
+    .flex_button_logo{
+        margin: 0 auto;
+        justify-content: center;
+    }
+
+    .button_log{
+        width: 180px;
+    }
+
+    .button_free{
+        width: 180px;
+    }
+
+    .media_center{
+        width: 550px;
+        text-align: center;
+    }
+
+    .size_for_text_after{
+        margin: 51px auto;
+    }
+
+    .section_size_1 {
+        padding: 50px 0 80px;
+        flex-direction: column;
+    }
+
+    .button_size{
+        width: 200px;
+    }
+
+    .button_size_1{
+        width: 200px;
+        margin-left: 0;
+    }
+
+    .small_text{
+        text-align: center;
+    }
+
+    .image_shema{
+        right: 0;
+        width: 730px;
+    }
+    
+    .media_hellp{
+        justify-content: space-around;
+    }
+    
+    .flex_logo_images{
+        flex-wrap: wrap;
+    }
+    
+    .media_helping_logo{
+        width: 30%;
+    }
+
+    .media_size_fix{
+        width: 720px;
+        margin: 0 auto;
+        justify-content: space-around;
+        align-content: space-between;
+        text-align: center;
+    }
+
+    .fix_size_conteiner{
+        max-width: 740px; 
+    }
+
+    .media_for_eight{
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .size_for_text_from_block{
+        margin: 0 auto;
+    }
+
+    .text_size{
+        margin-left: 0;
+    }
+
+    .meddia_help_padding{
+        padding-top: 30px;
+    }
+
+    .meddia_help_padding_1{
+        padding-bottom: 30px;
+    }
+
+    .padding_top_1{
+        padding-top: 150px;
+    }
+    
+    .padding_end{
+        padding-bottom: 100px;
+    }
+
+    .small_block_1{
+        padding: 0;
+    }
+    
+    .small_block_2{
+        padding: 0;
+    }
+    
+    .small_block_3{
+        padding: 0;
+    }
+
+    .media_padding{
+        padding-bottom: 20px;
+    }
+
+    .card_1 .card_2{
+        padding-right: 0;
+    }
+
+    .media_hellp_displai{
+        width: 100%;
+    }
+
+    .text_for_blue_block{
+        width: 730px;
+    }
+
+    .display_none_media{
+        display: none;
+    }
+
+    .media_imd_padding{
+        padding-bottom: 30px;
+    }
+
+    .blue_img{
+        padding-top: 0;
+    }
+
+    .media_birds{
+        width: 740px;
+    }
+
+    .helping_margin{
+        margin: 32px auto 60px;
+    }
+
+    .padding_for_last_block{
+        padding: 100px 0 120px;
+    }
+
+    .media_space_around{
+        justify-content: space-around;
+    }
+
+    .media_width{
+        width: 45%;
+    }
+
+    .media_width_1{
+        width: 45%;
+    }
+
+    .media_padding_bottom{
+        padding-bottom: 50px;
+    }
+}
+
+@media (max-width:750px) {
+    
+    .size_nav{
+        width: auto;
+    }
+
+    .nav_1{
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .nav_1_1{
+        margin-bottom: 0;
+    }
+
+    .button_log{
+        width: 200px;
+    }
+
+    .button_free{
+        width: 200px;
+    }
+
+    .flex_nav_header{
+        flex-direction: column;
+    }
+
+    .small_text{
+        font-size: 18px;
+        padding: 25px 0;
+    }
+
+    .image_shema{
+        width: 530px;
+    }
+
+    .size_for_text_logo{
+        max-width: 550px;
+    }
+
+    .text_befor_logo_images{
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .media_size_fix{
+        width: 540px;
+    }
+
+    .fix_size_conteiner{
+        max-width: 530px; 
+    }
+
+    .media_img_for_eight{
+        width: 500px;
+    }
+
+    .meddia_help_padding_1{
+        padding-bottom: 15px;
+    }
+
+    .padding_top_1{
+        padding-top: 100px;
+    }
+    
+    .padding_end{
+        padding-bottom: 50px;
+    }
+
+    .text_for_blue_block{
+        width: 500px;
+    }
+
+    .helping_paddin{
+        padding: 70px 0 100px;
+    }
+
+    .padding_logo_2{
+        padding: 100px 0 70px;
+    }
+
+    .blue_img{
+        padding-top: 0;
+    }
+
+    .helping_padding{
+        padding: 40px 0 0 ;
+    }
+
+    .text_blue{
+        padding: 66px 0 65px;
+    }
+
+    .media_birds{
+        width: 540px;
+    }
+
+    .text_center_media{
+        padding: 30px 0 30px;
+    }
+
+    .helping_margin{
+        margin: 32px auto 40px;
+    }
+
+    .padding_for_last_block{
+        padding: 50px 0 60px;
+    }
+
+    .media_width{
+        width: 100%;
+        width: 300px;
+    }
+
+    .media_width_1{
+        width: 45%;
+    }
+}
+
+@media (max-width:550px){
+
+    .button_log{
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .flex_button_logo{
+        flex-direction: column;
+        margin: 0 auto;
+    }
+
+    .button_log{
+        width: 260px;
+    }
+
+    .button_free{
+        width: 260px;
+    }
+    
+    .Accelerate{
+        font-size: 50px;
+        line-height: 55px;
+    }
+
+    .media_center{
+        width:  300px;
+    }
+
+    .size_for_text_after{
+        max-width: auto;
+    }
+
+    .media_hellp{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .button_size{
+        width: 260px;
+        margin-bottom: 10px;
+    }
+
+    .button_size_1{
+        width: 260px;
+    }
+
+    .image_shema{
+        width: 300px;
+    }
+
+    .media_padding_for_logo_1{
+        padding-top: 22px;
+    }
+
+    .media_padding_for_logo_2{
+        padding-top: 18px;
+    }
+
+    .media_padding_for_logo_3{
+        padding-top: 20px;
+    }
+
+    .size_for_text_logo{
+        max-width: 300px;
+    }
+
+    .text_befor_logo_images{
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .media_size_fix{
+        width: 300px;
+        
+    }
+    
+    .media_helping_logo{
+        width: 100%;
+        margin-bottom: 30px;
+        height: 53px; 
+    }
+
+    .nav_1_1{
+        margin-bottom: 0;
+    }
+
+    .fix_size_conteiner{
+        max-width: 300px; 
+    }
+
+    .text_from_block{
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .size_for_text_from_block{
+        width: 300px; 
+    }
+
+    .media_img_for_eight{
+        width: 300px;
+    }
+
+    .meddia_help_padding_1{
+        padding-bottom: 15px;
+    }
+
+    .padding_top_1{
+        padding-top: 50px;
+    }
+    
+    .padding_end{
+        padding-bottom: 25px;
+    }
+
+    .helping_paddin_for_first_block{
+        padding: 60px 0 40px;
+    }
+
+    .small_block_text_1{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    
+    .small_block_text_2{
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .img_padding_1{
+        padding: 0 70px  ;
+    }
+    
+    .img_padding_2{
+        padding: 0 70px;
+    }
+    
+    .img_padding_3{
+        padding: 0 61px;
+    }
+
+    .helping_size_for_block_1{
+        width: 300px;
+    }
+    
+    .helping_size_for_block_2{
+        width: 300px;
+    }
+    
+    .helping_size_for_block_3{
+        width: 300px;
+    }
+    
+    .helping_size_for_block_3_1{
+        width: 300px;
+    }
+    
+    .card_1_text_from_block .card_2_text_from_block .card_3_text_from_block{
+        width: 300px;
+    }
+
+    .card_2_text_from_block{
+        width: 300px;
+    } 
+    
+    .card_3_text_from_block{
+        width: 300px;
+    }
+
+    .bottom_padding{
+        padding-bottom: 80px;
+    }
+
+    .helping_paddin{
+        padding: 30px 0 50px;
+    }
+
+    .padding_logo_2{
+        padding: 50px 0 30px;
+    }
+
+    .text_for_blue_block{
+        width: 300px;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .man_media{
+        width: 240px;
+    }
+
+    .helping_padding{
+        width: 100px;
+    }
+
+    .text_blue{
+        font-size: 25px;
+        line-height: 30px;
+        padding: 40px 0;
+        width: 300px;
+    }
+
+    .blue_img{
+        width: 300px;
+    }
+
+    .helping_padding_for_bird{
+        padding: 65px 0 65px;
+    }
+
+    .text_center_media{
+        padding: 20px 0 20px;
+    }
+
+    .media_birds{
+        width: 300px;
+    }
+
+    .large_logo_befor_bird{
+        font-size: 45px;
+        line-height: 50px;
+    }
+
+    .small_text_befor_bird{
+        font-size: 20px;
+        line-height: 25px;
+        width: 300px;
+    }
+
+    .button_bird{
+        width: 250px;
+    }
+
+    .helping_margin{
+        margin: 32px auto 20px;
+    }
+
+    .size_for_free{
+        width: 250px;
+    }
+
+    .padding_for_last_block{
+        padding: 25px 0 30px;
+    }
+
+    .media_width{
+        width: 100%;
+    }
+
+    .media_width_1{
+        width: 100%;
+    }
+
+    .velo{
+        width: 260px;
+    }
+
+    .last_media_margin{
+        margin: 30px 0 50px;
+    }
+}
